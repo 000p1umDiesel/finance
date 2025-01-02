@@ -1,0 +1,7 @@
+streamlit
+prophet
+numpy
+vectorbt
+apimoex
+pandas
+requests
