@@ -6,3 +6,5 @@ apimoex
 pandas
 requests
 xlsxwriter
+llvmlite
+numba
