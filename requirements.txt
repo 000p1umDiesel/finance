@@ -1,10 +1,11 @@
 streamlit
+vectorbt
 prophet
 numpy
 apimoex
 pandas
 requests
 xlsxwriter
-llvmlite == 3.6
+llvmlite = 3.6
 numba 
 vectorbt
