@@ -6,6 +6,6 @@ apimoex
 pandas
 requests
 xlsxwriter
-llvmlite = 3.6
+llvmlite
 numba 
 vectorbt
