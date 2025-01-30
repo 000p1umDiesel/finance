@@ -1,12 +1,5 @@
-import requests
-import pandas as pd
-import apimoex
-import vectorbt as vbt
-import numpy as np
-from prophet import Prophet
-from prophet.plot import plot_plotly, plot_components_plotly
 import streamlit as st
-from functions import fetch_candles, MA_with_fix_window, MA_generate_optimal_portfolio
+from functions import MA_with_fix_window
 from functions import MA_with_fix_window
 
 st.subheader("График скользящих средних с фиксированным значениями скользящих средних")
